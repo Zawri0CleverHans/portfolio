@@ -1,0 +1,18 @@
+# Dependencies & build output
+node_modules/
+dist/
+.vite/
+
+# Environment & OS files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Raw local portfolio source documents (served assets live in public/)
+My resume.pdf
+1778743711072.jpg
+our research - just take the name from it.pdf
+Alll links of the organizations I've worked with.txt
+my links and email.txt
+Machine learning certificates/
